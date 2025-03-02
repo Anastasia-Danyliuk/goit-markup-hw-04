@@ -165,7 +165,7 @@ section {
 .studio {
     margin: 0 auto 0;
     padding: 188px 0;
-    background-image: linear-gradient(rgb(46, 47, 66, 0.7), rgb(46, 47, 66, 0.7)), url("/images/studio/studio.jpg");
+    background-image: linear-gradient(rgb(46, 47, 66, 0.7), rgb(46, 47, 66, 0.7)), url("../images/studio/studio.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
