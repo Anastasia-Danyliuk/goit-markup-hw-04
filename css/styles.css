@@ -320,10 +320,10 @@ section {
 
 .team-icons {
     display: flex;
-    justify-content: space-between;
     gap: 24px;
     width: 232px;
     margin: 0 16px;
+    justify-content: center;
 }
 
 .team-item {
